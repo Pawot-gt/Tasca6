@@ -1,0 +1,51 @@
+ 
+/* Arxiu CSS de la pàgina web amb errors */
+
+/* Error 1: Seleccionar una classe en comptes d'un element */
+h2{
+    font-size: 22px;
+}
+
+/* Error 2: Falta el punt i coma en una declaració CSS */
+h1 {
+    color: red
+}
+
+/* Error 3: Seleta una classe sense definir-la a l'HTML */
+.important-text {
+    font-weight: bold;
+}
+
+/* Error 4: La propietat 'background' no es defineix correctament */
+body {
+    background-color: grey
+}
+
+/* Error 5: Un selector de classe que no existeix a l'HTML */
+.para {
+    font-size: 14px;
+}
+
+/* Error 6: No tancar una regla CSS correctament */
+footer {
+    text-align: center
+/* Error 7: Utilitzar propietat incorrecta (color en comptes de color) */
+    color: green;
+}
+
+/* Error 8: Usar color de text incorrectament */
+nav a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Error 9: Utilitzar una propietat que no existeix */
+header {
+    border-radius: 10px;
+    background: linear-gradient(pink)
+}
+
+/* Error 10: No afegir un padding o marge al cos */
+body {
+    padding: 20px;
+}
