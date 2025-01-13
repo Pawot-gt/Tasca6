@@ -1,18 +1,17 @@
  
 /* Arxiu CSS de la pàgina web amb errors */
 
-/* Error 1: Seleccionar una classe en comptes d'un element */
-h2{
+h2 {
     font-size: 22px;
 }
 
-/* Error 2: Falta el punt i coma en una declaració CSS */
+
 h1 {
-    color: red
+    color: red;
 }
 
-/* Error 3: Seleta una classe sense definir-la a l'HTML */
-.important-text {
+
+.li {
     font-weight: bold;
 }
 
