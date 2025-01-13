@@ -15,20 +15,18 @@ h1 {
     font-weight: bold;
 }
 
-/* Error 4: La propietat 'background' no es defineix correctament */
+
 body {
-    background-color: grey
+    background-color: grey;
 }
 
-/* Error 5: Un selector de classe que no existeix a l'HTML */
+
 .para {
     font-size: 14px;
 }
 
-/* Error 6: No tancar una regla CSS correctament */
 footer {
-    text-align: center
-/* Error 7: Utilitzar propietat incorrecta (color en comptes de color) */
+    text-align: center;
     color: green;
 }
 
