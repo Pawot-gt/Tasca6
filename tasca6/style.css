@@ -30,19 +30,19 @@ footer {
     color: green;
 }
 
-/* Error 8: Usar color de text incorrectament */
+
 nav a {
     color: blue;
-    text-decoration: none;
 }
 
-/* Error 9: Utilitzar una propietat que no existeix */
+
 header {
     border-radius: 10px;
-    background: linear-gradient(pink)
+    background: (to right, pink, blue);
 }
 
-/* Error 10: No afegir un padding o marge al cos */
+
 body {
     padding: 20px;
+    margin: 0;
 }
